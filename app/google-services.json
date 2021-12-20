@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137635390329",
+    "project_id": "jen-tracker-78d57",
+    "storage_bucket": "jen-tracker-78d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137635390329:android:7bc3975adc4a0666a4c5a8",
+        "android_client_info": {
+          "package_name": "com.example.jentracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137635390329-1bkvnelqu1ujihelmvso12gu7bk3kgsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBF9eSdXCHl4VwknQoevSLImU595KAmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137635390329-1bkvnelqu1ujihelmvso12gu7bk3kgsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
